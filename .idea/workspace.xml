@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e27511-9a1d-4a24-9e50-9140c3468ee3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mFFsjafEjvkC1EaVkUrSKyFGLN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/JetBrains/sq6.4/sqljdbc_6.4/chs/mssql-jdbc-6.4.0.jre8.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\13426\IdeaProjects\聊天室1\src\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.as">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="聊天室1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="as" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.as" />
+      <module name="聊天室1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tryFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.tryFrame" />
+      <module name="聊天室1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.userUp" />
+      <module name="聊天室1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userUp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.userUp1" />
+      <module name="聊天室1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.as" />
+        <item itemvalue="Application.userUp" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.userUp1" />
+        <item itemvalue="Application.tryFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e27511-9a1d-4a24-9e50-9140c3468ee3" name="Default Changelist" comment="" />
+      <created>1609081640616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609081640616</updated>
+      <workItem from="1609081643650" duration="3337000" />
+      <workItem from="1609156091256" duration="5535000" />
+      <workItem from="1609161794526" duration="7490000" />
+      <workItem from="1609169354373" duration="2084000" />
+      <workItem from="1609201788929" duration="5227000" />
+      <workItem from="1609223565898" duration="3449000" />
+      <workItem from="1609230172546" duration="714000" />
+      <workItem from="1609238892613" duration="3026000" />
+      <workItem from="1609242020941" duration="10814000" />
+      <workItem from="1609297141694" duration="8954000" />
+      <workItem from="1609412412935" duration="2422000" />
+      <workItem from="1609468951033" duration="3220000" />
+      <workItem from="1609493675139" duration="571000" />
+      <workItem from="1609496662118" duration="607000" />
+      <workItem from="1609644853440" duration="1455000" />
+      <workItem from="1609659393478" duration="1857000" />
+      <workItem from="1609662792836" duration="1645000" />
+      <workItem from="1609664467757" duration="3289000" />
+      <workItem from="1609668420781" duration="3645000" />
+      <workItem from="1609690002809" duration="254000" />
+      <workItem from="1609728719255" duration="404000" />
+      <workItem from="1609729474237" duration="138000" />
+      <workItem from="1609731270212" duration="683000" />
+      <workItem from="1609748617097" duration="8591000" />
+      <workItem from="1609809208431" duration="35000" />
+      <workItem from="1609815000560" duration="5141000" />
+      <workItem from="1609831322680" duration="741000" />
+      <workItem from="1609842036825" duration="7961000" />
+      <workItem from="1609922298607" duration="13797000" />
+      <workItem from="1609939881265" duration="135000" />
+      <workItem from="1609985802571" duration="1871000" />
+      <workItem from="1609988643131" duration="1607000" />
+      <workItem from="1610201247257" duration="4275000" />
+      <workItem from="1610276637422" duration="3393000" />
+      <workItem from="1611480921177" duration="15000" />
+      <workItem from="1613711149373" duration="178000" />
+      <workItem from="1617339087327" duration="546000" />
+      <workItem from="1617803257152" duration="46000" />
+      <workItem from="1619754548863" duration="122000" />
+      <workItem from="1619754678884" duration="359000" />
+      <workItem from="1619855043854" duration="470000" />
+      <workItem from="1619856733327" duration="2165000" />
+      <workItem from="1620007662406" duration="32000" />
+      <workItem from="1620394312268" duration="3033000" />
+      <workItem from="1620897495249" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1620398478952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620398478952" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1620398478951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620398478951" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1620398478951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620398478951" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1620398478951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620398478951" />
+    <state x="208" y="78" key="SettingsEditor" timestamp="1620007676161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="208" y="78" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620007676161" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/server/userUp.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/server/client.java</url>
+          <line>12</line>
+          <properties class="server.clientSend" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
